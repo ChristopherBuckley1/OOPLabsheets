@@ -25,7 +25,7 @@ public class TestComputer {
 
         JOptionPane.showMessageDialog(null,output,"computer object data",JOptionPane.INFORMATION_MESSAGE);
         System.exit(0);
-
+//test
 
     }
 }
