@@ -1,4 +1,4 @@
-package Lab3.exercise2;
+package Lab4.exercise1;
 
 public class Computer {
     private String manufacturer;
